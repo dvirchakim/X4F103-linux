@@ -1,0 +1,4 @@
+replay
+frames.bin
+*.o
+__pycache__/
